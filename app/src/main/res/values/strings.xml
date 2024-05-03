@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeminiCare</string>
+
+    <!-- Chat sample strings -->
+    <string name="chat_label">Message</string>
+    <string name="action_send">Send</string>
+
+</resources>
