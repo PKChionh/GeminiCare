@@ -2,7 +2,7 @@
 
 ## Inspiration
 
-A simple chatbot for users with a need for counselling care and sentiments analysis.
+Mental well-being is crucial to our overall health. It is often neglected due to societal pressures and not easily detected or understood. We should treat mental wellness as seriously as other ailments. An anonymous avenue to air our frustrations can allow self-healing and relief stress.
 
 ## What it does
 
@@ -10,7 +10,7 @@ This app provides basic help for users to chat, seek counselling care, and will 
 
 ## How I built it
 
-This project uses Google Gemini Pro 1.0, for the Google AI Hackathon 2024 ([https://www.pddhack.sg/](https://googleai.devpost.com/]).
+This Android project is written using Kotlin and uses Google Gemini Pro 1.0 APIs, as part of the submission for the Google AI Hackathon 2024 ([https://googleai.devpost.com/]).
  
 ## Quick start
 
